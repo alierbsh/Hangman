@@ -101,3 +101,9 @@ if __name__ == "__main__":
     hangman()
     while input("Tekrar oynamak ister misiniz? (e/h): ").lower() == 'e':
         hangman()
+
+        # bu benim ilk yazdigim oyun.
+
+        a = 0 
+        if a == True :
+            print("test yazisi")
